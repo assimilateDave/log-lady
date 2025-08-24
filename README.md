@@ -26,7 +26,6 @@ C:\PDF-Processing\
 ├── PDF_IN\
 ├── PDF_working\
 ├── PDF_final\
-└── debug_imgs\
 ```
 
 ## Quickstart
