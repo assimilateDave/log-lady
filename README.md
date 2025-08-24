@@ -25,8 +25,7 @@ This project is a modular .NET/C# rewrite of the `pdf-magic-monkey` pipeline, de
 C:\PDF-Processing\
 ├── PDF_IN\
 ├── PDF_working\
-├── PDF_final\
-└── debug_imgs\
+└── PDF_final\
 ```
 
 ## Quickstart

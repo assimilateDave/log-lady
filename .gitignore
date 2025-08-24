@@ -9,9 +9,6 @@ obj/
 # VSCode settings
 .vscode/
 
-# Debug folders
-debug_imgs/
-
 # SQLite database
 *.db
 
