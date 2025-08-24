@@ -1,0 +1,20 @@
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode settings
+.vscode/
+
+# Debug folders
+debug_imgs/
+
+# SQLite database
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
