@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LogLady.Data\LogLady.Data.csproj" />
-    <ProjectReference Include="..\LogLady.Processing\LogLady.Processing.csproj" />
+    <ProjectReference Include="..\\LogLady.Processing\\LogLady.Processing.csproj" />
+    <ProjectReference Include="..\\LogLady.Data\\LogLady.Data.csproj" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.117" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
