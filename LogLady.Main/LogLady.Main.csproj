@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>LogLady.Main</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LogLady.Data\LogLady.Data.csproj" />
+    <ProjectReference Include="..\LogLady.Processing\LogLady.Processing.csproj" />
+  </ItemGroup>
+
+</Project>
